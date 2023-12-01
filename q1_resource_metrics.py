@@ -1,10 +1,10 @@
 resource_metrics = [
     'vm_cpu_time_sys',
     'vm_cpu_time_user',
-    'vm_cpu_vcpu_time_per_seconds',
+    'vm_cpu_vcpu_time_per_seconds_vcpu',
     'vm_cpu_context_switch_context_switch',
     'vm_cpu_cycle_per_instruction_cpi',
-    'vm_cpu_instructions_per_second_ips',
+    'vm_cpu_instructions_per_second_ins',
     'vm_cpu_branch_ips',
     'vm_cpu_branch_miss_per_branch_instructions',
     'vm_cache_misses_per_thousand_instructions',
